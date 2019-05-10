@@ -3,4 +3,4 @@
 
 
 ### about.
-I will add jokes written in *every* programming language I know, and each will print a joke.
+I will add jokes written in nearly every programming language I know, and each will print a joke.
