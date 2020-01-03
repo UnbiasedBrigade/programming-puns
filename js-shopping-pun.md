@@ -5,8 +5,8 @@
 <h4> "WHY DID YOU GET SO MANY EGGS?" shouted the woman</h4>
 <p>"there was milk,"the man said. </p>
 
-<p><br/><br/><br/><br/>
-
+<p><br/><br/><br/><br/></p>
+<p>
 var jokeFunc = function(hasMilk) {<br/>
 var x = 12;<br/>
 if(hasMilk === true) {<br/>
@@ -14,6 +14,5 @@ x *= 4;<br/>
 }<br/>
 buyEggs(x);<br/>
 };<br/>
-jokeFunk(true);
-
+jokeFunc(true);
 </p>
